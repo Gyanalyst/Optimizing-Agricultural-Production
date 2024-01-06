@@ -22,18 +22,18 @@ The **pH** range of 5.5–6.5 is optimal for plant growth as the availability of
 
 
 # Key Insights:
-**Crops and Nutrient Requirements:**
+**1. Crops and Nutrient Requirements:**
 
 • Certain crops have distinct requirements for nitrogen, phosphorus, and potassium.
 • Cotton requires the most nitrogen, while apple and grapes demand the highest phosphorus and potassium, respectively.
 
-**Climate and Soil Preferences:**
+**2. Climate and Soil Preferences:**
 
 • Different crops have varying preferences for temperature, humidity, pH, and rainfall.
 • Papaya and mango require high temperatures, while coconut needs a humid climate.
 • Chickpeas thrive in higher pH soils, whereas rice demands significant rainfall.
 
-**Seasonal Crop Recommendations:**
+**3. Seasonal Crop Recommendations:**
 
 • Identified crops suitable for different seasons:
 
@@ -43,36 +43,36 @@ The **pH** range of 5.5–6.5 is optimal for plant growth as the availability of
 
 **• Rainy Crops**: _Rice, papaya, coconut._
 
-**• Outliers and Data Distribution**:
+**4. Outliers and Data Distribution**:
 
 • Outliers are present across the dataset affecting nutrient levels and climatic conditions.
 
 • Visualizations highlight the distribution and variability of data attributes.
 
-**Clustering Analysis:**
+**5. Clustering Analysis:**
 
 • Implemented K-means clustering to group crops based on similar conditions.
 
 • Identified clusters with crops having comparable requirements for optimal growth.
 
 # Recommendations:
-**Precision Farming Strategies:**
+**1. Precision Farming Strategies:**
 
 • Employ precision farming techniques based on identified nutrient and climatic requirements for different crops.
 
-**Crop-Specific Planning:**
+**2. Crop-Specific Planning:**
 
 • Farmers should plan crops based on seasonal and regional suitability for better yields.
 
-**Outlier Management:**
+**3. Outlier Management:**
 
 • Address outliers in the dataset to ensure accurate predictive modeling.
 
-**Machine Learning Application:**
+**4. Machine Learning Application:**
 
 • Deploy machine learning models to predict suitable crops for given soil and climatic conditions.
 
-**Further Research:**
+**5. Further Research:**
 
 • Explore advanced techniques to handle outliers and improve predictive accuracy.
 
